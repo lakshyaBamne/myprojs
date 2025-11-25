@@ -1,0 +1,6 @@
+*.exe
+*.x
+
+.vs/
+build/
+logs/
